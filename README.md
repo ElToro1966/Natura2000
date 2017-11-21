@@ -24,3 +24,5 @@ Reference
 [5] Natura 2000 data - Values for 2014 - http://www.eea.europa.eu/data-and-maps/data/natura-6 - Downloaded on October 11, 2016.
 
 [6] Natura 2000 data - Values for 2015 - http://www.eea.europa.eu/data-and-maps/data/natura-7 - Downloaded on October 11, 2016.
+
+[7] Natura 2000 data - Values for 2016 - http://www.eea.europa.eu/data-and-maps/data/natura-8 - Downloaded on October 21, 2017.
