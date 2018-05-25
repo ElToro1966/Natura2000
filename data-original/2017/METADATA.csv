@@ -1,5 +1,3 @@
-﻿"parameter","value"
-"Database Created","Mar 12 2018  8:10AM"
-"Database Version","End2017"
-"Database Type","Public database"
-"Source Files","AT\2017-10-30\Austria36.xml, BE\2017-06-30\Belgium_ExportSitesToXML_20170627.xml, BG\2016-09-28\N2000_Update_September_2016.mdb, CY\2017-01-25\exportSitesToXML.xml, CZ\2016-09-30\cntrycz.mdb, DE\2017-11-29\country_de_2017.accdb, DK\2018-02-01\Cntrydk_2017.xml, EE\2017-06-19\Natura_XML.xml, ES\2017-12-15\SPAINCNTRYES_2017Dec.accdb, FI\2012-09-28\FI_natura2000_02102012.mdb, FR\2018-01-04\N2000FR1712.mdb, GR\2018-03-02\DB-GR-NATURA_ENG_Dec2017.mdb, HR\2015-10-26\SDF_Natura2000_HR_2015.mdb, HU\2017-12-07\SDF_2017_12_HUN.xml, IE\2018-01-30\exportSitesToXML.xml, IT\2017-12-21\ITN2000_2017.mdb, LT\2017-01-16\exportSitesToXML.xml, LU\2015-09-16\exportSitesToXML.xml, LV\2017-09-29\exportSitesToXML.xml, MT\2016-04-25\exportSitesToXML.xml, NL\2018-01-31\exportSites_NL_2017.xml, PL\2015-11-24\PL_N2000_2015v2.xml, PT\2017-09-06\exportSitesToXML.xml, RO\2016-12-16\01_RO_N2K_20161125.mdb, SE\2017-08-23\exportSitesToDB_sweden.mdb, SI\2016-03-16\20160316_SI_N2000_SDF.xml, SK\2017-11-20\SDF_2017.mdb, UK\2017-11-14\UKNatura2000.mdb,"
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdee7c2b14421829f48efae16e6d6d08f122b2da757dfae11ac6916a31b11bbb
+size 1179
