@@ -1,0 +1,576 @@
+data-original/2010/bioRegion .csv
+1	26303
+2	3
+data-original/2010/contacts .csv
+1	10996
+2	3
+data-original/2010/describesSites .csv
+1	130171
+2	4
+data-original/2010/designationStatus .csv
+1	74027
+2	6
+data-original/2010/directivesSpecies .csv
+1	2315
+2	11
+data-original/2010/generalHabitatClass .csv
+1	27
+2	5
+data-original/2010/habitats .csv
+1	125475
+2	10
+data-original/2010/impact .csv
+1	147879
+2	7
+data-original/2010/metaData .csv
+1	4
+2	3
+data-original/2010/natura2000Sites .csv
+1	25903
+2	18
+data-original/2010/otherSpecies .csv
+1	286797
+2	6
+data-original/2010/species .csv
+1	323306
+2	13
+data-original/2011/BioRegion.csv
+1	26883
+2	2
+data-original/2011/Contacts.csv
+1	12473
+2	2
+data-original/2011/Describessites.csv
+1	132994
+2	3
+data-original/2011/DesignationStatus.csv
+1	76187
+2	5
+data-original/2011/DirectivesSpecies.csv
+1	2315
+2	10
+data-original/2011/HabitatClass.csv
+1	27
+2	4
+data-original/2011/Habitats.csv
+1	128673
+2	9
+data-original/2011/Impact.csv
+1	154100
+2	6
+data-original/2011/MetaData.csv
+1	3
+2	2
+data-original/2011/Natura2000Sites.csv
+1	26424
+2	17
+data-original/2011/OtherSpecies.csv
+1	290061
+2	5
+data-original/2011/Species.csv
+1	341185
+2	12
+data-original/2012/BIOREGION.csv
+1	27155
+2	3
+data-original/2012/CONTACTS.csv
+1	26472
+2	11
+data-original/2012/DESIGNATIONSTATUS.csv
+1	72852
+2	5
+data-original/2012/DIRECTIVESPECIES.csv
+1	2315
+2	10
+data-original/2012/HABITATCLASS.csv
+1	136655
+2	4
+data-original/2012/HABITATS.csv
+1	135408
+2	14
+data-original/2012/IMPACT.csv
+1	127631
+2	7
+data-original/2012/MANAGEMENT.csv
+1	27633
+2	14
+data-original/2012/METADATA.csv
+1	4
+2	2
+data-original/2012/NATURA2000SITES.csv
+1	26465
+2	43
+data-original/2012/OTHERSPECIES.csv
+1	304926
+2	12
+data-original/2012/SPECIES.csv
+1	398189
+2	18
+data-original/2013/BIOREGION.csv
+1	28320
+2	3
+data-original/2013/CONTACTS.csv
+1	2629
+2	11
+data-original/2013/DESIGNATIONSTATUS.csv
+1	72871
+2	5
+data-original/2013/DIRECTIVESPECIES.csv
+1	2315
+2	10
+data-original/2013/HABITATCLASS.csv
+1	141032
+2	4
+data-original/2013/HABITATS.csv
+1	139784
+2	14
+data-original/2013/IMPACT.csv
+1	130893
+2	7
+data-original/2013/MANAGEMENT.csv
+1	29271
+2	14
+data-original/2013/METADATA.csv
+1	2
+2	1
+data-original/2013/NATURA2000SITES.csv
+1	27498
+2	22
+data-original/2013/OTHERSPECIES.csv
+1	311967
+2	12
+data-original/2013/SPECIES.csv
+1	405237
+2	18
+data-original/2014/BIOREGION.csv
+1	28943
+2	3
+data-original/2014/CONTACTS.csv
+1	2614
+2	11
+data-original/2014/DESIGNATIONSTATUS.csv
+1	70050
+2	5
+data-original/2014/DIRECTIVESPECIES.csv
+1	2315
+2	10
+data-original/2014/HABITATCLASS.csv
+1	140788
+2	4
+data-original/2014/HABITATS.csv
+1	140323
+2	14
+data-original/2014/IMPACT.csv
+1	132567
+2	7
+data-original/2014/MANAGEMENT.csv
+1	29391
+2	14
+data-original/2014/METADATA.csv
+1	4
+2	2
+data-original/2014/NATURA2000SITES.csv
+1	27413
+2	22
+data-original/2014/OTHERSPECIES.csv
+1	313760
+2	12
+data-original/2014/SPECIES.csv
+1	406096
+2	18
+data-original/2015/BIOREGION.csv
+1	27733
+2	3
+data-original/2015/CONTACTS.csv
+1	2283
+2	11
+data-original/2015/DESIGNATIONSTATUS.csv
+1	76737
+2	5
+data-original/2015/DIRECTIVESPECIES.csv
+1	2315
+2	10
+data-original/2015/HABITATCLASS.csv
+1	141706
+2	4
+data-original/2015/HABITATS.csv
+1	143145
+2	14
+data-original/2015/IMPACT.csv
+1	182419
+2	7
+data-original/2015/MANAGEMENT.csv
+1	29810
+2	14
+data-original/2015/METADATA.csv
+1	4
+2	2
+data-original/2015/NATURA2000SITES.csv
+1	27312
+2	22
+data-original/2015/OTHERSPECIES.csv
+1	318766
+2	12
+data-original/2015/SPECIES.csv
+1	402659
+2	18
+data-original/2016/BIOREGION.csv
+1	28581
+2	3
+data-original/2016/CONTACTS.csv
+1	2279
+2	11
+data-original/2016/DESIGNATIONSTATUS.csv
+1	79659
+2	5
+data-original/2016/DIRECTIVESPECIES.csv
+1	2315
+2	10
+data-original/2016/HABITATCLASS.csv
+1	142771
+2	4
+data-original/2016/HABITATS.csv
+1	146369
+2	14
+data-original/2016/IMPACT.csv
+1	193941
+2	7
+data-original/2016/MANAGEMENT.csv
+1	31702
+2	14
+data-original/2016/METADATA.csv
+1	4
+2	2
+data-original/2016/NATURA2000SITES.csv
+1	27527
+2	22
+data-original/2016/OTHERSPECIES.csv
+1	314005
+2	12
+data-original/2016/SPECIES.csv
+1	406084
+2	18
+data-original/2017/BIOREGION.csv
+1	28817
+2	3
+data-original/2017/CONTACTS.csv
+1	1929
+2	11
+data-original/2017/DESIGNATIONSTATUS.csv
+1	81569
+2	5
+data-original/2017/DIRECTIVESPECIES.csv
+1	2315
+2	10
+data-original/2017/HABITATCLASS.csv
+1	143108
+2	4
+data-original/2017/HABITATS.csv
+1	148444
+2	15
+data-original/2017/IMPACT.csv
+1	201273
+2	7
+data-original/2017/MANAGEMENT.csv
+1	31942
+2	14
+data-original/2017/METADATA.csv
+1	4
+2	2
+data-original/2017/NATURA2000SITES.csv
+1	27758
+2	22
+data-original/2017/OTHERSPECIES.csv
+1	310958
+2	13
+data-original/2017/SPECIES.csv
+1	384244
+2	19
+data-original/2010/bioRegion .csv
+1	26303
+2	3
+data-original/2010/contacts .csv
+1	10996
+2	3
+data-original/2010/describesSites .csv
+1	130171
+2	4
+data-original/2010/designationStatus .csv
+1	74027
+2	6
+data-original/2010/directivesSpecies .csv
+1	2315
+2	11
+data-original/2010/generalHabitatClass .csv
+1	27
+2	5
+data-original/2010/habitats .csv
+1	125475
+2	10
+data-original/2010/impact .csv
+1	147879
+2	7
+data-original/2010/metaData .csv
+1	4
+2	3
+data-original/2010/natura2000Sites .csv
+1	25903
+2	18
+data-original/2010/otherSpecies .csv
+1	286797
+2	6
+data-original/2010/species .csv
+1	323306
+2	13
+data-original/2011/BioRegion.csv
+1	26883
+2	2
+data-original/2011/Contacts.csv
+1	12473
+2	2
+data-original/2011/Describessites.csv
+1	132994
+2	3
+data-original/2011/DesignationStatus.csv
+1	76187
+2	5
+data-original/2011/DirectivesSpecies.csv
+1	2315
+2	10
+data-original/2011/HabitatClass.csv
+1	27
+2	4
+data-original/2011/Habitats.csv
+1	128673
+2	9
+data-original/2011/Impact.csv
+1	154100
+2	6
+data-original/2011/MetaData.csv
+1	3
+2	2
+data-original/2011/Natura2000Sites.csv
+1	26424
+2	17
+data-original/2011/OtherSpecies.csv
+1	290061
+2	5
+data-original/2011/Species.csv
+1	341185
+2	12
+data-original/2012/BIOREGION.csv
+1	27155
+2	3
+data-original/2012/CONTACTS.csv
+1	26472
+2	11
+data-original/2012/DESIGNATIONSTATUS.csv
+1	72852
+2	5
+data-original/2012/DIRECTIVESPECIES.csv
+1	2315
+2	10
+data-original/2012/HABITATCLASS.csv
+1	136655
+2	4
+data-original/2012/HABITATS.csv
+1	135408
+2	14
+data-original/2012/IMPACT.csv
+1	127631
+2	7
+data-original/2012/MANAGEMENT.csv
+1	27633
+2	14
+data-original/2012/METADATA.csv
+1	4
+2	2
+data-original/2012/NATURA2000SITES.csv
+1	26465
+2	43
+data-original/2012/OTHERSPECIES.csv
+1	304926
+2	12
+data-original/2012/SPECIES.csv
+1	398189
+2	18
+data-original/2013/BIOREGION.csv
+1	28320
+2	3
+data-original/2013/CONTACTS.csv
+1	2629
+2	11
+data-original/2013/DESIGNATIONSTATUS.csv
+1	72871
+2	5
+data-original/2013/DIRECTIVESPECIES.csv
+1	2315
+2	10
+data-original/2013/HABITATCLASS.csv
+1	141032
+2	4
+data-original/2013/HABITATS.csv
+1	139784
+2	14
+data-original/2013/IMPACT.csv
+1	130893
+2	7
+data-original/2013/MANAGEMENT.csv
+1	29271
+2	14
+data-original/2013/METADATA.csv
+1	2
+2	1
+data-original/2013/NATURA2000SITES.csv
+1	27498
+2	22
+data-original/2013/OTHERSPECIES.csv
+1	311967
+2	12
+data-original/2013/SPECIES.csv
+1	405237
+2	18
+data-original/2014/BIOREGION.csv
+1	28943
+2	3
+data-original/2014/CONTACTS.csv
+1	2614
+2	11
+data-original/2014/DESIGNATIONSTATUS.csv
+1	70050
+2	5
+data-original/2014/DIRECTIVESPECIES.csv
+1	2315
+2	10
+data-original/2014/HABITATCLASS.csv
+1	140788
+2	4
+data-original/2014/HABITATS.csv
+1	140323
+2	14
+data-original/2014/IMPACT.csv
+1	132567
+2	7
+data-original/2014/MANAGEMENT.csv
+1	29391
+2	14
+data-original/2014/METADATA.csv
+1	4
+2	2
+data-original/2014/NATURA2000SITES.csv
+1	27413
+2	22
+data-original/2014/OTHERSPECIES.csv
+1	313760
+2	12
+data-original/2014/SPECIES.csv
+1	406096
+2	18
+data-original/2015/BIOREGION.csv
+1	27733
+2	3
+data-original/2015/CONTACTS.csv
+1	2283
+2	11
+data-original/2015/DESIGNATIONSTATUS.csv
+1	76737
+2	5
+data-original/2015/DIRECTIVESPECIES.csv
+1	2315
+2	10
+data-original/2015/HABITATCLASS.csv
+1	141706
+2	4
+data-original/2015/HABITATS.csv
+1	143145
+2	14
+data-original/2015/IMPACT.csv
+1	182419
+2	7
+data-original/2015/MANAGEMENT.csv
+1	29810
+2	14
+data-original/2015/METADATA.csv
+1	4
+2	2
+data-original/2015/NATURA2000SITES.csv
+1	27312
+2	22
+data-original/2015/OTHERSPECIES.csv
+1	318766
+2	12
+data-original/2015/SPECIES.csv
+1	402659
+2	18
+data-original/2016/BIOREGION.csv
+1	28581
+2	3
+data-original/2016/CONTACTS.csv
+1	2279
+2	11
+data-original/2016/DESIGNATIONSTATUS.csv
+1	79659
+2	5
+data-original/2016/DIRECTIVESPECIES.csv
+1	2315
+2	10
+data-original/2016/HABITATCLASS.csv
+1	142771
+2	4
+data-original/2016/HABITATS.csv
+1	146369
+2	14
+data-original/2016/IMPACT.csv
+1	193941
+2	7
+data-original/2016/MANAGEMENT.csv
+1	31702
+2	14
+data-original/2016/METADATA.csv
+1	4
+2	2
+data-original/2016/NATURA2000SITES.csv
+1	27527
+2	22
+data-original/2016/OTHERSPECIES.csv
+1	314005
+2	12
+data-original/2016/SPECIES.csv
+1	406084
+2	18
+data-original/2017/BIOREGION.csv
+1	28817
+2	3
+data-original/2017/CONTACTS.csv
+1	1929
+2	11
+data-original/2017/DESIGNATIONSTATUS.csv
+1	81569
+2	5
+data-original/2017/DIRECTIVESPECIES.csv
+1	2315
+2	10
+data-original/2017/HABITATCLASS.csv
+1	143108
+2	4
+data-original/2017/HABITATS.csv
+1	148444
+2	15
+data-original/2017/IMPACT.csv
+1	201273
+2	7
+data-original/2017/MANAGEMENT.csv
+1	31942
+2	14
+data-original/2017/METADATA.csv
+1	4
+2	2
+data-original/2017/NATURA2000SITES.csv
+1	27758
+2	22
+data-original/2017/OTHERSPECIES.csv
+1	310958
+2	13
+data-original/2017/SPECIES.csv
+1	384244
+2	19
