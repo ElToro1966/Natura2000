@@ -22,23 +22,23 @@ read_encoded_csv <- function(file_to_read,file_encoding) {
       read.csv(file_to_read, header=TRUE, sep=",", fileEncoding=file_encoding, dec=".")
     },
     error=function(cond) {
-      message(paste("Encoding doesn't seem to work:", file_encoding))
-      message("Here's the original error message:")
+      message(paste("Encoding doesn't seem to work: ", file_encoding))
+      message("Here's the original error message: ")
       message(cond)
       # Return value in case of error
       return(NA)
     },
     warning=function(cond) {
-      message(paste("Encoding caused a warning:", file_encoding))
-      message("Here's the original warning message:")
+      message(paste("Encoding caused a warning: ", file_encoding))
+      message("Here's the original warning message: ")
       message(cond)
       # Return value in case of warning
       return(NULL)
     },
     finally={ 
       message("\n")
-      message(paste("Processed file:", file_to_read))
-      message(paste("Processed encoding:", file_encoding))
+      message(paste("Processed file: ", file_to_read))
+      message(paste("Processed encoding: " , file_encoding))
     }
   )    
   return(out)
